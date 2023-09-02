@@ -41,3 +41,4 @@ export const Single = () => {
     </div>
   );
 };
+export default Single
