@@ -56,7 +56,8 @@ const Register = () => {
         <button onClick={handleSubmit}>Register</button>
         {err && <p>{err}</p>}
         <span>
-          Do you have an account? <Link to="/login">Login</Link>
+          Do you have an account? <Link to="/login">Login</Link>     
+          <h1></h1>
         </span>
       </form>
     </div>
